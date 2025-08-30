@@ -57,7 +57,7 @@ public class matrixSum {
                 System.out.print(a[i][j]);
 
             }
-            System.out.println();
+         
 
         }
 
